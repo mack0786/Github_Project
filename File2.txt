@@ -1,2 +1,1 @@
 This is file2 created for GitHub project.
-Modifying file to test the changes.
